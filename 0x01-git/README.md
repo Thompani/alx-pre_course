@@ -1,1 +1,1 @@
-this is a project on the introduction to git/github
+this is a project on the introduction to git/github and it is really cool
